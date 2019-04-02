@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo RJ">
+    <display-name lang="pt">Globo RJ</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo GO">
+    <display-name lang="pt">Globo GO</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo DF">
+    <display-name lang="pt">Globo DF</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo RS">
+    <display-name lang="pt">Globo RS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20190402000000 +0100" stop="20190402235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190403000000 +0100" stop="20190403235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+</tv>
